@@ -66,7 +66,7 @@ Conducting exploratory data analysis is essential to address the project's liste
 
 ### Generic Questions
 1.	How many distinct cities are present in the dataset?
-2.	PROD
+
 
 ### Product Analysis
 1.	How many distinct product lines are there in the dataset?
